@@ -23,17 +23,6 @@ Thanks for all your nice feedback!
 
 * [A demo can be found here](http://www.olejon.net/code/phpmyreservation/?demo). Create a new user to test it. Make sure you read the demo information on the new user page
 
-### Requirements
-
-**Server:**
-
-* Web server with PHP
-* MySQL
-
-**Client:**
-
-* A modern browser
-
 ### Features
 
 * Fast, easy & smooth
@@ -46,3 +35,14 @@ Thanks for all your nice feedback!
 * Receive reservation reminders by email
 
 **NOTE:** This web app was intended to be run on a server that is in the same time zone as the users, so there is no time zone support, as it was intented to be a private project.
+
+### Requirements
+
+**Server:**
+
+* Web server with PHP
+* MySQL
+
+**Client:**
+
+* A modern browser
