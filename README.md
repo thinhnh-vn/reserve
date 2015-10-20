@@ -8,30 +8,12 @@ In addition to reserving a washing machine, it can for example be used to reserv
 
 ### Download
 
-* [phpMyReservation 1.0 is now available for download](http://www.olejon.net/code/phpmyreservation/files/phpmyreservation-1.0.tar.bz2)
+* [Download phpMyReservation 1.0](http://www.olejon.net/code/phpmyreservation/files/phpmyreservation-1.0.tar.bz2)
 
 ### Wiki
 
 * [How to install](https://www.olejon.net/code/phpmyreservation/?how_to_install)
 * [Reservation reminders](https://www.olejon.net/code/phpmyreservation/?reservation_reminders)
-
-**Many are contacting me regarding a new version. As of now I can not guarantee a new version in the near future. I will keep all your suggestions in mind if I start working on a new version. I am aware of that the current version have some bugs & flaws. As I have no education in technology whatsoever, I learn how to code in my spare time. With my knowledge today, I am aware of the fact that the code could be better. Test it thoroughly to see if it works for you.**
-
-Thanks for all your nice feedback!
-
-* Features
-* Fast, easy & smooth
-* User login
-* Browse through all weeks of the year
-* A price per reservation can be set
-* Usage is stored automatically
-* User control panel
-* Advanced admin control panel
-* Receive reservation reminders by email
-
-**NOTE:** This web app was intended to be run on a server that is in the same time zone as the users, so there is no time zone support, as it was intented to be a private project.
-
-Thanks for all your nice feedback!
 
 ### Demo
 [A demo can be found here](http://www.olejon.net/code/phpmyreservation/?demo). Create a new user to test it. Make sure you read the demo information on the new user page.
@@ -46,3 +28,22 @@ Thanks for all your nice feedback!
 **Client:**
 
 * A modern browser
+
+**Many are contacting me regarding a new version. As of now I can not guarantee a new version in the near future. I will keep all your suggestions in mind if I start working on a new version. I am aware of that the current version have some bugs & flaws. As I have no education in technology whatsoever, I learn how to code in my spare time. With my knowledge today, I am aware of the fact that the code could be better. Test it thoroughly to see if it works for you.**
+
+Thanks for all your nice feedback!
+
+### Features
+
+* Fast, easy & smooth
+* User login
+* Browse through all weeks of the year
+* A price per reservation can be set
+* Usage is stored automatically
+* User control panel
+* Advanced admin control panel
+* Receive reservation reminders by email
+
+**NOTE:** This web app was intended to be run on a server that is in the same time zone as the users, so there is no time zone support, as it was intented to be a private project.
+
+Thanks for all your nice feedback!
