@@ -39,6 +39,3 @@ Thanks for all your nice feedback!
 **Client:**
 
 * A modern browser
-
-
-Copyright 2014 Ole Jon Bjørkum - OleJon.net
