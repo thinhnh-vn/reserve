@@ -6,6 +6,10 @@ It was originally written to replace the paper-based reservation system used to 
 
 In addition to reserving a washing machine, it can for example be used to reserve a tennis court, a conference/meeting room etc. It is not intented to be used in situations where high security, high reliability or being able to handle hundreds of users is required.
 
+**Many are contacting me regarding a new version. As of now I can not guarantee a new version in the near future. I will keep all your suggestions in mind if I start working on a new version. I am aware of that the current version have some bugs & flaws. As I have no education in technology whatsoever, I learn how to code in my spare time. With my knowledge today, I am aware of the fact that the code could be better. Test it thoroughly to see if it works for you.**
+
+Thanks for all your nice feedback!
+
 ### Download
 
 * [Download phpMyReservation 1.0](http://www.olejon.net/code/phpmyreservation/files/phpmyreservation-1.0.tar.bz2)
@@ -29,10 +33,6 @@ In addition to reserving a washing machine, it can for example be used to reserv
 **Client:**
 
 * A modern browser
-
-**Many are contacting me regarding a new version. As of now I can not guarantee a new version in the near future. I will keep all your suggestions in mind if I start working on a new version. I am aware of that the current version have some bugs & flaws. As I have no education in technology whatsoever, I learn how to code in my spare time. With my knowledge today, I am aware of the fact that the code could be better. Test it thoroughly to see if it works for you.**
-
-Thanks for all your nice feedback!
 
 ### Features
 
