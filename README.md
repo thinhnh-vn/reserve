@@ -22,7 +22,7 @@ Thanks for all your nice feedback!
 * Advanced admin control panel
 * Receive reservation reminders by email
 
-*NOTE:* This web app was intended to be run on a server that is in the same time zone as the users, so there is no time zone support, as it was intented to be a private project.
+**NOTE:** This web app was intended to be run on a server that is in the same time zone as the users, so there is no time zone support, as it was intented to be a private project.
 
 Thanks for all your nice feedback!
 
