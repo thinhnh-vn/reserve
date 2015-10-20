@@ -16,7 +16,8 @@ In addition to reserving a washing machine, it can for example be used to reserv
 * [Reservation reminders](https://www.olejon.net/code/phpmyreservation/?reservation_reminders)
 
 ### Demo
-[A demo can be found here](http://www.olejon.net/code/phpmyreservation/?demo). Create a new user to test it. Make sure you read the demo information on the new user page.
+
+* [A demo can be found here](http://www.olejon.net/code/phpmyreservation/?demo). Create a new user to test it. Make sure you read the demo information on the new user page
 
 ### Requirements
 
