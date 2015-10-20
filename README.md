@@ -9,6 +9,9 @@ In addition to reserving a washing machine, it can for example be used to reserv
 ### Download
 
 * [phpMyReservation 1.0 is now available for download](http://www.olejon.net/code/phpmyreservation/files/phpmyreservation-1.0.tar.bz2)
+* 
+### Wiki
+
 * [Install](https://www.olejon.net/code/phpmyreservation/?how_to_install)
 
 **Many are contacting me regarding a new version. As of now I can not guarantee a new version in the near future. I will keep all your suggestions in mind if I start working on a new version. I am aware of that the current version have some bugs & flaws. As I have no education in technology whatsoever, I learn how to code in my spare time. With my knowledge today, I am aware of the fact that the code could be better. Test it thoroughly to see if it works for you.**
