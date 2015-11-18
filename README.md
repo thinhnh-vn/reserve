@@ -1,6 +1,6 @@
 ## phpMyReservation
 
-phpMyReservation is a web-based reservation system. It's based on HTML5, PHP and MySQL, and it's free and open source.
+phpMyReservation is a web-based reservation system. It is based on HTML5, PHP and MySQL, and it is free and open source.
 
 It was originally written to replace the paper-based reservation system used to reserve a washing machine used by many people where I live. Since it has other potential uses, and can be useful to others, I decided to make it available here.
 
