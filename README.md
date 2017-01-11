@@ -24,7 +24,7 @@ Thanks for all your nice feedback!
 ### Demo
 
 * [A demo can be found here](http://www.olejon.net/code/phpmyreservation/?demo)
-* Create a new user to test it. Make sure you read the demo information on the new user page
+* Create a new user to test it. **Make sure you read the demo information on the new user page!**
 
 ### Features
 
@@ -37,7 +37,7 @@ Thanks for all your nice feedback!
 * Advanced admin control panel
 * Receive reservation reminders by email
 
-**NOTE:** This web app was intended to be run on a server that is in the same time zone as the users, so there is no time zone support, as it was intented to be a private project.
+**NOTE:** This web app was intended to be run on a server that is in the same time zone as the users, so there is no time zone support, as it was intented to be a private project. If all users are in the same time zone and the server is in another, use [this PHP function](http://php.net/manual/en/function.date-default-timezone-set.php) at the top part of `main.php` to change it. It all users are not in the same time zone it is not supported and the code must be changed more.
 
 ### Requirements
 
