@@ -43,6 +43,10 @@ Thanks for all your nice feedback!
 
 ### Requirements
 
+**First:**
+
+* [Reading Known Issues and Solutions](http://www.olejon.net/code/phpmyreservation/?issues)
+
 **Server:**
 
 * Web server with PHP
