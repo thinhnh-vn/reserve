@@ -12,7 +12,7 @@ Many are contacting me regarding a new version. As of now I can not guarantee a 
 
 ### Please see:
 
-* [Known Issues and Solutions](http://www.olejon.net/code/phpmyreservation/?issues)
+* [Known issues and solutions](http://www.olejon.net/code/phpmyreservation/?issues)
 
 Thanks for all your nice feedback!
 
@@ -45,7 +45,7 @@ Thanks for all your nice feedback!
 
 **First:**
 
-* [Reading Known Issues and Solutions](http://www.olejon.net/code/phpmyreservation/?issues)
+* [Reading known issues and solutions](http://www.olejon.net/code/phpmyreservation/?issues)
 
 **Server:**
 
