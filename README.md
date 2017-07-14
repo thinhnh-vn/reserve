@@ -12,19 +12,19 @@ Many are contacting me regarding a new version. As of now I can not guarantee a 
 
 ### Please see:
 
-* [Known issues and solutions](http://www.olejon.net/code/phpmyreservation/?issues)
+* [Known issues and solutions](https://www.olejon.net/code/phpmyreservation/?issues)
 
 Thanks for all your nice feedback!
 
 ### Demo
 
 * Make sure you read the demo information on the new user page
-* [A demo can be found here](http://www.olejon.net/code/phpmyreservation/?demo)
+* [A demo can be found here](https://www.olejon.net/code/phpmyreservation/?demo)
 * Create a new user to test it
 
 ### Download
 
-* [Download phpMyReservation 1.0](http://www.olejon.net/code/phpmyreservation/files/phpmyreservation-1.0.tar.bz2)
+* [Download phpMyReservation 1.0](https://www.olejon.net/code/phpmyreservation/files/phpmyreservation-1.0.tar.bz2)
 
 ### Wiki
 
@@ -46,7 +46,7 @@ Thanks for all your nice feedback!
 
 **First:**
 
-* [Reading known issues and solutions](http://www.olejon.net/code/phpmyreservation/?issues)
+* [Reading known issues and solutions](https://www.olejon.net/code/phpmyreservation/?issues)
 
 **Server:**
 
