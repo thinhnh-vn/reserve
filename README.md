@@ -10,7 +10,7 @@ In addition to reserving a washing machine, it can for example be used to reserv
 
 Many are contacting me regarding a new version. As of now I can not guarantee a new version in the near future. I will keep all your suggestions in mind if I start working on a new version. I am aware of that this version has some bugs, flaws and not the best code. Feel free to fork and improve it! This was written when I was still learning to program web-based apps. It is pretty stable and works well in many conditions, though.
 
-#### Please see:
+### Please see:
 
 [Known Issues and Solutions](http://www.olejon.net/code/phpmyreservation/?issues)
 
