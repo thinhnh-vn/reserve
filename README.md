@@ -18,8 +18,9 @@ Thanks for all your nice feedback!
 
 ### Demo
 
+* Make sure you read the demo information on the new user page
 * [A demo can be found here](http://www.olejon.net/code/phpmyreservation/?demo)
-* Create a new user to test it. **Make sure you read the demo information on the new user page!**
+* Create a new user to test it
 
 ### Download
 
