@@ -49,8 +49,7 @@ Thanks for all your nice feedback!
 
 **Server:**
 
-* Web server with PHP
-* MySQL
+* Web server with PHP and MySQL
 
 **Client:**
 
