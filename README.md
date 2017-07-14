@@ -2,9 +2,9 @@
 
 phpMyReservation is a web-based reservation and booking system.
 
-It was originally written to replace the paper-based reservation system used to reserve a washing machine used by many people where I live. Since it has other potential uses, and can be useful to others, I decided to make it available here.
+It was originally written to replace the paper-based reservation system used to reserve a common washing machine. Since it has other potential uses, and can be useful to others, I decided to make it available here.
 
-In addition to reserving a washing machine, it can for example be used to reserve a tennis court, a conference/meeting room etc. It is not intented to be used in situations where high security, high reliability or being able to handle hundreds of users is required.
+It can for example be used to reserve a tennis court, a conference/meeting room etc. It is not intented to be used in situations where high security, high reliability or being able to handle hundreds of users is required.
 
 ### !!! This project is currently not maintained !!!
 
