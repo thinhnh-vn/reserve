@@ -27,7 +27,7 @@ Thanks for all your nice feedback!
 
 ### Wiki
 
-* [How to install](https://www.olejon.net/code/phpmyreservation/?how_to_install)
+* [How to install](https://www.olejon.net/code/phpmyreservation/?install)
 * [Reservation reminders](https://www.olejon.net/code/phpmyreservation/?reservation_reminders)
 
 ### Features
