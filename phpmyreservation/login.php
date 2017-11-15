@@ -1,5 +1,5 @@
 <?php
-
+ini_set('display_errors',1);
 include_once('main.php');
 
 if(isset($_GET['login']))
