@@ -3,10 +3,10 @@
 ### IF YOU ARE GOING TO USE THE CHARACTER ' IN ANY OF THE OPTIONS, ESCAPE IT LIKE THIS: \' ###
 
 // MySQL details
-define('global_mysql_server', 'SERVER-HOST-OR-IP-ADDRESS');
-define('global_mysql_user', 'USERNAME');
-define('global_mysql_password', 'PASSWORD');
-define('global_mysql_database', 'DATABASE');
+define('global_mysql_server', 'localhost');
+define('global_mysql_user', 'root');
+define('global_mysql_password', '');
+define('global_mysql_database', 'reserve');
 
 // Salt for password encryption. Changing it is recommended. Use 9 random characters
 // This MUST be 9 characters, and must NOT be changed after users have been created
