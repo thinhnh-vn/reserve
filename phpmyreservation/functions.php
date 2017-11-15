@@ -215,8 +215,10 @@ function create_user($user_name, $user_email, $user_password, $user_secret_code)
 		}
 
 		$user_password = encrypt_password($user_password);
-
-		mysql_query("INSERT INTO " . global_mysql_users_table . " (user_is_admin,user_email,user_password,user_name,user_reservation_reminder) VALUES ($user_is_admin,'$user_email','$user_password','$user_name','0')")or die('<span class="error_span"><u>MySQL error:</u> ' . mysql_error() . '</span>');
+		$sql = "INSERT INTO " . global_mysql_users_table .
+			" (user_is_admin,user_email,user_password,user_name,user_reservation_reminder) 
+			VALUES ($user_is_admin,'$user_email','$user_password','$user_name','0')";
+		mysql_query($sql)or die('<span class="error_span"><u>MySQL error:</u> ' . mysql_error() . $sql.'</span>');
 
 		$user_password = strip_salt($user_password);
 
