@@ -5,7 +5,7 @@
 // MySQL details
 define('global_mysql_server', 'localhost');
 define('global_mysql_user', 'root');
-define('global_mysql_password', '');
+define('global_mysql_password', 'cms123456');
 define('global_mysql_database', 'reserve');
 
 // Salt for password encryption. Changing it is recommended. Use 9 random characters
