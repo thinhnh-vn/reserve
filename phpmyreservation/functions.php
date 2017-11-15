@@ -203,7 +203,7 @@ function create_user($user_name, $user_email, $user_password, $user_secret_code)
 	}
 	else
 	{
-		$query = mysql_query("SELECT * FROM " . global_mysql_users_table . "")or die('<span class="error_span"><u>MySQL error:</u> ' . htmlspecialchars(mysql_error()) . '</span>');
+		$query = mysql_query("SELECT * FROM " . global_mysql_users_table . "")or die('<span class="error_span"><u>MySQL error:</u> ' . mysql_error() . '</span>');
 
 		if(mysql_num_rows($query) == 0)
 		{
@@ -216,7 +216,7 @@ function create_user($user_name, $user_email, $user_password, $user_secret_code)
 
 		$user_password = encrypt_password($user_password);
 
-		mysql_query("INSERT INTO " . global_mysql_users_table . " (user_is_admin,user_email,user_password,user_name,user_reservation_reminder) VALUES ($user_is_admin,'$user_email','$user_password','$user_name','0')")or die('<span class="error_span"><u>MySQL error:</u> ' . htmlspecialchars(mysql_error()) . '</span>');
+		mysql_query("INSERT INTO " . global_mysql_users_table . " (user_is_admin,user_email,user_password,user_name,user_reservation_reminder) VALUES ($user_is_admin,'$user_email','$user_password','$user_name','0')")or die('<span class="error_span"><u>MySQL error:</u> ' . mysql_error() . '</span>');
 
 		$user_password = strip_salt($user_password);
 
@@ -229,7 +229,7 @@ function create_user($user_name, $user_email, $user_password, $user_secret_code)
 
 function list_admin_users()
 {
-	$query = mysql_query("SELECT * FROM " . global_mysql_users_table . " WHERE user_is_admin='1' ORDER BY user_name")or die('<span class="error_span"><u>MySQL error:</u> ' . htmlspecialchars(mysql_error()) . '</span>');
+	$query = mysql_query("SELECT * FROM " . global_mysql_users_table . " WHERE user_is_admin='1' ORDER BY user_name")or die('<span class="error_span"><u>MySQL error:</u> ' . mysql_error() . '</span>');
 
 	if(mysql_num_rows($query) < 1)
 	{
