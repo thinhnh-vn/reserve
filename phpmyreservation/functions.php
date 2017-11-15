@@ -203,7 +203,7 @@ function create_user($user_name, $user_email, $user_password, $user_secret_code)
 	}
 	else
 	{
-		$query = mysql_query("SELECT * FROM " . global_mysql_users_table . "")or die('<span class="error_span"><u>MySQL error:</u> ' . mysql_error() . '</span>');
+		$query = mysql_query("SELECT * FROM " . global_mysql_users_table );
 
 		if(mysql_num_rows($query) == 0)
 		{
